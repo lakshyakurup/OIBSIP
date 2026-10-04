@@ -14,7 +14,7 @@
 
 This repository serves as a centralized hub for all practical tasks and projects assigned during the **Oasis Infobyte (AICTE)** internship track. Every submission is engineered with production-ready standards, leveraging modern web frameworks (**Next.js**, **React**), strongly typed architecture (**TypeScript**), and modular backend logic (**Python**).
 
-Each task is isolated inside its own directory, fully documented with setup instructions, core objectives, and architectural choices.
+Each task is isolated inside its own directory with its source code and configuration.
 
 ---
 
@@ -44,15 +44,12 @@ Each task is isolated inside its own directory, fully documented with setup inst
 OIBSIP/
 ├── lakshya_task1/          # Source files, components & docs for Task 1
 │   ├── src/
-│   ├── README.md
 │   └── package.json
 ├── lakshya_task2/          # Source files, scripts & docs for Task 2
 │   ├── src/
-│   ├── README.md
 │   └── package.json
 ├── lakshya_task3/          # Source files, components & docs for Task 3
 │   ├── src/
-│   ├── README.md
 │   └── package.json
 ├── .gitignore
 ├── LICENSE
