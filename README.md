@@ -32,9 +32,9 @@ Each task is isolated inside its own directory, fully documented with setup inst
 
 | # | Task Description | Primary Stack | Source Code | Live Demo | Status |
 |---|------------------|---------------|-------------|-----------|--------|
-| **01** | Level 1 — Task 1 (TBD) | Next.js / TypeScript | [`/Lakshya_Task1`](./Lakshya_Task1) | 🔗 [Demo](#) | 🟡 In Progress |
-| **02** | Level 1 — Task 2 (TBD) | Next.js / Python | [`/Lakshya_Task2`](./Lakshya_Task2) | 🔗 [Demo](#) | 🟡 In Progress |
-| **03** | Level 1 — Task 3 (TBD) | Next.js / TypeScript | [`/Lakshya_Task3`](./Lakshya_Task3) | 🔗 [Demo](#) | 🟡 In Progress |
+| **01** | Level 1 — Task 1 (TBD) | Next.js / TypeScript | [`/lakshya_task1`](./lakshya_task1) | 🔗 [Demo](#) | 🟡 In Progress |
+| **02** | Level 1 — Task 2 (TBD) | Next.js / Python | [`/lakshya_task2`](./lakshya_task2) | 🔗 [Demo](#) | 🟡 In Progress |
+| **03** | Level 1 — Task 3 (TBD) | Next.js / TypeScript | [`/lakshya_task3`](./lakshya_task3) | 🔗 [Demo](#) | 🟡 In Progress |
 
 ---
 
@@ -42,15 +42,15 @@ Each task is isolated inside its own directory, fully documented with setup inst
 
 ```text
 OIBSIP/
-├── Lakshya_Task1/          # Source files, components & docs for Task 1
+├── lakshya_task1/          # Source files, components & docs for Task 1
 │   ├── src/
 │   ├── README.md
 │   └── package.json
-├── Lakshya_Task2/          # Source files, scripts & docs for Task 2
+├── lakshya_task2/          # Source files, scripts & docs for Task 2
 │   ├── src/
 │   ├── README.md
 │   └── package.json
-├── Lakshya_Task3/          # Source files, components & docs for Task 3
+├── lakshya_task3/          # Source files, components & docs for Task 3
 │   ├── src/
 │   ├── README.md
 │   └── package.json
